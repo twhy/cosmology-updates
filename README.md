@@ -9,3 +9,6 @@
 * Fix TypeError when extensions are not installed https://github.com/cosmology-tech/cosmos-kit/issues/209
 * Add docs for Trust and Station https://github.com/cosmology-tech/cosmos-kit/issues/198
   - PR https://github.com/cosmology-tech/cosmos-kit/pull/208  [Review Needed]
+
+## 2023-05-22 ~ 2023-05-26 Week 3
+* TODO: Integrate Ledger Wallet https://github.com/cosmology-tech/cosmos-kit/issues/213
