@@ -8,7 +8,9 @@
 * Fix logo urls https://github.com/cosmology-tech/cosmos-kit/issues/197
 * Fix TypeError when extensions are not installed https://github.com/cosmology-tech/cosmos-kit/issues/209
 * Add docs for Trust and Station https://github.com/cosmology-tech/cosmos-kit/issues/198
-  - PR https://github.com/cosmology-tech/cosmos-kit/pull/208  [Review Needed]
+  - PR https://github.com/cosmology-tech/cosmos-kit/pull/208  [Merged]
+* https://www.loom.com/share/dc50b6ef372c4ad29090f8caa715caf7
 
 ## 2023-05-22 ~ 2023-05-26 Week 3
-* TODO: Integrate Ledger Wallet https://github.com/cosmology-tech/cosmos-kit/issues/213
+* Integrate Ledger Wallet https://github.com/cosmology-tech/cosmos-kit/issues/213
+  
