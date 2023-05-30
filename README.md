@@ -2,7 +2,7 @@
 
 ## 2023-05-29 ~ 2023-06-02 Week 4
 * Integrate Ledger Wallet https://github.com/cosmology-tech/cosmos-kit/issues/213
-* [Bug] Not detect account changed when mount https://github.com/cosmology-tech/cosmos-kit/issues/214
+* [Bug][Fixed by June] Not detect account changed when mount https://github.com/cosmology-tech/cosmos-kit/issues/214
 ## 2023-05-22 ~ 2023-05-26 Week 3
 * Integrate Ledger Wallet https://github.com/cosmology-tech/cosmos-kit/issues/213
   * Loom Video https://www.loom.com/share/c2230ba59ecc4f468bcdb7193b0defed
