@@ -1,15 +1,7 @@
 # Cosmology Updates
 
-## 2023-05-08 ~ 2023-05-12 Week 1
-* Onboarding https://github.com/cosmology-tech/onboarding
-* Fix build is failing https://github.com/cosmology-tech/cosmos-kit/issues/199
-
-## 2023-05-15 ~ 2023-05-19 Week 2
-* Fix logo urls https://github.com/cosmology-tech/cosmos-kit/issues/197
-* Fix TypeError when extensions are not installed https://github.com/cosmology-tech/cosmos-kit/issues/209
-* Add docs for Trust and Station https://github.com/cosmology-tech/cosmos-kit/issues/198
-  - PR https://github.com/cosmology-tech/cosmos-kit/pull/208  [Merged]
-* Loom Video https://www.loom.com/share/dc50b6ef372c4ad29090f8caa715caf7
+## 2023-05-29 ~ 2023-06-02 Week 4
+* Integrate Ledger Wallet https://github.com/cosmology-tech/cosmos-kit/issues/213
 
 ## 2023-05-22 ~ 2023-05-26 Week 3
 * Integrate Ledger Wallet https://github.com/cosmology-tech/cosmos-kit/issues/213
@@ -79,5 +71,16 @@
         },
         "updatedAt": "2021-07-30T17:48:12.565+00:00"
     }
-}
+  }
   ```
+
+## 2023-05-15 ~ 2023-05-19 Week 2
+* Fix logo urls https://github.com/cosmology-tech/cosmos-kit/issues/197
+* Fix TypeError when extensions are not installed https://github.com/cosmology-tech/cosmos-kit/issues/209
+* Add docs for Trust and Station https://github.com/cosmology-tech/cosmos-kit/issues/198
+  - PR https://github.com/cosmology-tech/cosmos-kit/pull/208  [Merged]
+* Loom Video https://www.loom.com/share/dc50b6ef372c4ad29090f8caa715caf7
+
+## 2023-05-08 ~ 2023-05-12 Week 1
+* Onboarding https://github.com/cosmology-tech/onboarding
+* Fix build is failing https://github.com/cosmology-tech/cosmos-kit/issues/199
