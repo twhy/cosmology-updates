@@ -13,8 +13,9 @@
 
 ## 2023-05-22 ~ 2023-05-26 Week 3
 * Integrate Ledger Wallet https://github.com/cosmology-tech/cosmos-kit/issues/213
+  * Code Changes (Draft) https://github.com/cosmology-tech/cosmos-kit/compare/ledger-desktop?expand=1
   * Question 1. How to debug Cosmos Kit Source Code?   
-      Currently I use `docs` for debugger, please tell me a better way to do it if you know.
+    -  Currently I use `docs` for debugger, please tell me a better way to do it if you know.
   * Question 2. Does the resposne from WallConnect Explorer API show that Leger Live only support Ethereum chain(s) when connecting with WalletConnect?
   ```json
   {
