@@ -9,10 +9,11 @@
 * Fix TypeError when extensions are not installed https://github.com/cosmology-tech/cosmos-kit/issues/209
 * Add docs for Trust and Station https://github.com/cosmology-tech/cosmos-kit/issues/198
   - PR https://github.com/cosmology-tech/cosmos-kit/pull/208  [Merged]
-* https://www.loom.com/share/dc50b6ef372c4ad29090f8caa715caf7
+* Loom Video https://www.loom.com/share/dc50b6ef372c4ad29090f8caa715caf7
 
 ## 2023-05-22 ~ 2023-05-26 Week 3
 * Integrate Ledger Wallet https://github.com/cosmology-tech/cosmos-kit/issues/213
+  * Loom Video https://www.loom.com/share/c2230ba59ecc4f468bcdb7193b0defed
   * Code Changes (Draft) https://github.com/cosmology-tech/cosmos-kit/compare/ledger-desktop?expand=1
   * Question 1. How to debug Cosmos Kit Source Code?   
     -  Currently I use `docs` for debugger, please tell me a better way to do it if you know.
