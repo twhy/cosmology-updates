@@ -1,9 +1,31 @@
 # Cosmology Updates
 
+## 2023-06-05 ~ 2023-06-09 Week 5 (WIP)
+* Arbitrary signatures https://github.com/cosmology-tech/cosmos-kit/issues/89
+* Code review with June about changes in `packages/wallconnect/client.ts`
+  * It's a base class file so we need to be more careful
+* Ledger Live Safari Extension (Should I start working on this?)
+  * [Problem 1] They don't expose `window.ledger` like `window.keplr`
+  * [Problem 2] The extension only supports Ethereum at the moment
+  
+  ![WX20230606-080324@2x](https://github.com/twhy/cosmology-updates/assets/7459812/8830c84e-559a-49dd-abc6-114cadd669d5)
+
 ## 2023-05-29 ~ 2023-06-02 Week 4
 * Integrate Ledger Wallet https://github.com/cosmology-tech/cosmos-kit/issues/213
+  * Ledger Live Mobile (The WalletConnect part works, but we need Ledger team to add support to Cosmos chains)
+  * Ledger Live Desktop (The WalletConnect part works, but we need Ledger team to add support to Cosmos chains)
+  * [Question 1] What do we usually do to "push" them to work politetly?  
+    - I asked about when they will support Cosmos chains and no replys yet.
+  * [Question 2] Should I try to add these features for them?   
+    - Their apps are open source https://github.com/LedgerHQ/ledger-live
+  
+  ![WX20230604-205804@2x](https://github.com/twhy/cosmology-updates/assets/7459812/70ff4f41-c2b1-403e-8198-6b35d5caeae8)
+  ![WX20230606-080445@2x](https://github.com/twhy/cosmology-updates/assets/7459812/d5f24706-78de-4c6d-a4f1-2b874d9959e6)
+  
 * [Bug][Fixed by June] Not detect account changed when mount https://github.com/cosmology-tech/cosmos-kit/issues/214
-* Invalid status URL generated for seitestnet2 https://github.com/cosmology-tech/cosmos-kit/issues/195
+* [Fixed] Invalid status URL generated for seitestnet2 https://github.com/cosmology-tech/cosmos-kit/issues/195
+  * [Cause] `create-cosmos-app` using an older version of `cosmos-kit`
+  * [Action] Update `create-cosmos-app` to use lastest version of `cosmos-kit`
 ## 2023-05-22 ~ 2023-05-26 Week 3
 * Integrate Ledger Wallet https://github.com/cosmology-tech/cosmos-kit/issues/213
   * Loom Video https://www.loom.com/share/c2230ba59ecc4f468bcdb7193b0defed
