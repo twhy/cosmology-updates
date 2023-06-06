@@ -14,6 +14,7 @@
 * Integrate Ledger Wallet https://github.com/cosmology-tech/cosmos-kit/issues/213
   * Ledger Live Mobile (The WalletConnect part works, but we need Ledger team to add support to Cosmos chains)
   * Ledger Live Desktop (The WalletConnect part works, but we need Ledger team to add support to Cosmos chains)
+  * Code changes: https://github.com/cosmology-tech/cosmos-kit/compare/ledger?expand=1
   * [Question 1] What do we usually do to "push" them to work politetly?  
     - I asked about when they will support Cosmos chains and no replys yet.
   * [Question 2] Should I try to add these features for them?   
@@ -29,7 +30,7 @@
 ## 2023-05-22 ~ 2023-05-26 Week 3
 * Integrate Ledger Wallet https://github.com/cosmology-tech/cosmos-kit/issues/213
   * Loom Video https://www.loom.com/share/c2230ba59ecc4f468bcdb7193b0defed
-  * Code Changes (Draft) https://github.com/cosmology-tech/cosmos-kit/compare/ledger-desktop?expand=1
+  * Code Changes (Draft) https://github.com/cosmology-tech/cosmos-kit/compare/ledger?expand=1
   * Question 1. How to debug Cosmos Kit Source Code?   
     -  Currently I use `docs` for debugger, please tell me a better way to do it if you know.
   * Question 2. Does the resposne from WallConnect Explorer API show that Leger Live only support Ethereum chain(s) when connecting with WalletConnect?
