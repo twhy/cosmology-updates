@@ -6,7 +6,8 @@
 * [Done & Merged] Arbitrary signatures https://github.com/cosmology-tech/cosmos-kit/issues/89
 * [Review Needed] Embed Wallet logos https://github.com/cosmology-tech/cosmos-kit/issues/230 
   - PR https://github.com/cosmology-tech/cosmos-kit/pull/229
-  
+  - ![WX20230613-001159@2x](https://github.com/twhy/cosmology-updates/assets/7459812/95d67425-3855-4130-baf3-8e6508c5a776)
+
 
 ## 2023-05-29 ~ 2023-06-02 Week 4
 * Integrate Ledger Wallet https://github.com/cosmology-tech/cosmos-kit/issues/213
