@@ -3,6 +3,7 @@
 ## 2023-06-12 ~ 2023-06-16 Week 6 (WIP) 
 
 ## 2023-06-05 ~ 2023-06-09 Week 5
+* [Fixed & Merged] CosmosKit wallet connect error https://github.com/cosmology-tech/projects-issues/issues/349
 * [Done & Merged] Arbitrary signatures https://github.com/cosmology-tech/cosmos-kit/issues/89
 * [Review Needed] Embed Wallet logos https://github.com/cosmology-tech/cosmos-kit/issues/230 
   - PR https://github.com/cosmology-tech/cosmos-kit/pull/229
