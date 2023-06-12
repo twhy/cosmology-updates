@@ -4,6 +4,8 @@
 
 ## 2023-06-05 ~ 2023-06-09 Week 5
 * [Fixed & Merged] CosmosKit wallet connect error https://github.com/cosmology-tech/projects-issues/issues/349
+  * Forgot to include this in the Loom video
+  * PR https://github.com/cosmology-tech/cosmos-kit/pull/219
 * [Done & Merged] Arbitrary signatures https://github.com/cosmology-tech/cosmos-kit/issues/89
 * [Review Needed] Embed Wallet logos https://github.com/cosmology-tech/cosmos-kit/issues/230 
   - PR https://github.com/cosmology-tech/cosmos-kit/pull/229
