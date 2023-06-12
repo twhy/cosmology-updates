@@ -8,7 +8,7 @@
   - PR https://github.com/cosmology-tech/cosmos-kit/pull/229
   - [Docs Added] Only `svg` and `png` are supported. Use logo files that are less than 50kb.
   - ![WX20230613-001159@2x](https://github.com/twhy/cosmology-updates/assets/7459812/95d67425-3855-4130-baf3-8e6508c5a776)
-* Loom https://www.loom.com/share/5db9dcb9f3464fb3a1628cb7de020c1b
+* Loom https://www.loom.com/share/ab6144430435437b8a4f83b4909b8c0f
 ## 2023-05-29 ~ 2023-06-02 Week 4
 * Integrate Ledger Wallet https://github.com/cosmology-tech/cosmos-kit/issues/213
   * Ledger Live Mobile (The WalletConnect part works, but we need Ledger team to add support to Cosmos chains)
