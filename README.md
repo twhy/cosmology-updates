@@ -1,14 +1,12 @@
 # Cosmology Updates
 
-## 2023-06-05 ~ 2023-06-09 Week 5 (WIP)
-* Arbitrary signatures https://github.com/cosmology-tech/cosmos-kit/issues/89
-* Code review with June about changes in `packages/wallconnect/client.ts`
-  * It's a base class file so we need to be more careful
-* Ledger Live Safari Extension (Should I start working on this?)
-  * [Problem 1] They don't expose `window.ledger` like `window.keplr`
-  * [Problem 2] The extension only supports Ethereum at the moment
+## 2023-06-12 ~ 2023-06-16 Week 6 (WIP) 
+
+## 2023-06-05 ~ 2023-06-09 Week 5
+* [Done & Merged] Arbitrary signatures https://github.com/cosmology-tech/cosmos-kit/issues/89
+* [Review Needed] Embed Wallet logos https://github.com/cosmology-tech/cosmos-kit/issues/230 
+  - PR https://github.com/cosmology-tech/cosmos-kit/pull/229
   
-  ![WX20230606-080324@2x](https://github.com/twhy/cosmology-updates/assets/7459812/8830c84e-559a-49dd-abc6-114cadd669d5)
 
 ## 2023-05-29 ~ 2023-06-02 Week 4
 * Integrate Ledger Wallet https://github.com/cosmology-tech/cosmos-kit/issues/213
