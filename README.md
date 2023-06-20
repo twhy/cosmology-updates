@@ -58,6 +58,8 @@
     * Any?
 
   We can discuss about this with June when she comes back.
+  
+* Loom Video https://www.loom.com/share/508650899aa14efdba9fb0031a0940cf
 
 ## 2023-06-05 ~ 2023-06-09 Week 5
 * [Fixed & Merged] CosmosKit wallet connect error https://github.com/cosmology-tech/projects-issues/issues/349
