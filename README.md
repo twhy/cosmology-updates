@@ -7,6 +7,7 @@
    * [Works] Connect to Ledger ✅
    * [Works] Get address and public key ✅
    * [Implemeted but not tested] Sign method
+   * [Code] https://github.com/cosmology-tech/cosmos-kit/compare/feat/ledger-web-usb-hid?expand=1
    * [Issue] Describe below
   ```javascript
   // wallets/ledger/src/web-usb-hid/main-wallet.ts
