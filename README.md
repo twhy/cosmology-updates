@@ -1,6 +1,30 @@
 # Cosmology Updates
 
-## 2023-06-12 ~ 2023-06-16 Week 6 (WIP) 
+## 2023-06-12 ~ 2023-06-16 Week 6
+* [90% Done] Connect to Ledger using WebUSB/WebHID
+   * [Works] Connect to Ledger ✅
+   * [Works] Get address and public key ✅
+   * [Issue] Describe below
+  ```javascript
+  // wallets/ledger/src/web-usb-hid/main-wallet.ts
+
+  export class LedgerMainWallet extends MainWalletBase {
+   // ...
+   async initClient() {
+    this.initingClient();
+    try {
+      // The line below requests USB/HID connection, but throws an error in console,
+      // because requesting USB/HID connection requires a user interaction like clicking a button,
+      // but there's no user interactions here. Should move this line to some method run after user clicks.
+      const ledger = await getCosmosApp(this.transportType);  
+      this.initClientDone(ledger ? new LedgerClient(ledger) : undefined);
+    } catch (error) {
+      this.logger?.error(error);
+      this.initClientError(error);
+    }
+   }
+  }
+  ```
 
 ## 2023-06-05 ~ 2023-06-09 Week 5
 * [Fixed & Merged] CosmosKit wallet connect error https://github.com/cosmology-tech/projects-issues/issues/349
