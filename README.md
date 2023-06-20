@@ -51,7 +51,7 @@
   import { wallets as keplr } from '@cosmos-kit/keplr/mobile'     // mobile only
   ```
   - Pros
-    * Less packages.
+    * Much Less packages.
     * More clear code structure.
     * Two third of duplicate config files can be removed from repo.
   - Cons
