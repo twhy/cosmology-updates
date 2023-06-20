@@ -4,6 +4,7 @@
 * [90% Done] Connect to Ledger using WebUSB/WebHID
    * [Works] Connect to Ledger ✅
    * [Works] Get address and public key ✅
+   * [Implemeted but not tested] Sign method
    * [Issue] Describe below
   ```javascript
   // wallets/ledger/src/web-usb-hid/main-wallet.ts
@@ -25,6 +26,38 @@
    }
   }
   ```
+* [Idea] Combining related wallet packages
+  - Take Keplr for example, we got `@cosmos-kit/keplr` `@cosmos-kit/keplr-extension` `@cosmos-kit/keplr-mobile`
+  - The idea is to combine these three packages into one: `@cosmos-kit/keplr`
+  - Source Code Structure
+  ```sh
+  wallets/
+    keplr/
+      src/
+        extension/
+          ... extension code
+        mobile/
+          ... mobile code
+        index.ts     // exporting extension and mobile wallets
+      ... config files
+      package.json
+  ```
+  - Usage
+  ```typescript
+  import { wallets as keplr } from '@cosmos-kit/keplr'  // extension and mobile wallets
+
+  import { wallets as keplr } from '@cosmos-kit/keplr/extension'  // extension only
+
+  import { wallets as keplr } from '@cosmos-kit/keplr/mobile'     // mobile only
+  ```
+  - Pros
+    * Less packages.
+    * More clear code structure.
+    * Two third of duplicate config files can be removed from repo.
+  - Cons
+    * Any?
+
+  We can discuss about this with June when she comes back.
 
 ## 2023-06-05 ~ 2023-06-09 Week 5
 * [Fixed & Merged] CosmosKit wallet connect error https://github.com/cosmology-tech/projects-issues/issues/349
