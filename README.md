@@ -3,7 +3,7 @@
 ## 2023-06-19 ~ 2023-06-21 Week 7 (3 days, WIP)
 
 ## 2023-06-12 ~ 2023-06-16 Week 6
-* [90% Done] Connect to Ledger using WebUSB/WebHID
+1. [90% Done] Connect to Ledger using WebUSB/WebHID
    * [Works] Connect to Ledger ✅
    * [Works] Get address and public key ✅
    * [Implemeted but not tested] Sign method
@@ -31,7 +31,7 @@
   ```
   ![WX20230621-001821@2x](https://github.com/twhy/cosmology-updates/assets/7459812/b6495f18-34b3-4e8e-bdb1-760d9bed8f32)
 
-* [Idea] Combining related wallet packages
+2. [Idea] Combining related wallet packages
   - Take Keplr for example, we got `@cosmos-kit/keplr` `@cosmos-kit/keplr-extension` `@cosmos-kit/keplr-mobile`
   - The idea is to combine these three packages into one: `@cosmos-kit/keplr`
   - Source Code Structure
