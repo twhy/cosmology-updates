@@ -8,7 +8,17 @@
    * Pull Request https://github.com/cosmology-tech/cosmos-kit/pull/243
    * Docs Added. `@cosmos-kit/ledger` is currently in beta because
      1. This connector is a new kind of connector, and using experimental Web USB/HID APIs.
-     2. Trying out the One Package Approach mentioned last week in this package.
+     2. Trying out the One Package Approach mentioned last week in this package. It works.
+     ```typescript
+     // If you want to connect to Ledger via WebUSB
+     import { wallets as ledger } from '@cosmos-kit/ledger/web-usb';
+ 
+     // If you want to connect to Ledger via WebHID
+     import { wallets as ledger } from '@cosmos-kit/ledger/web-hid';
+
+     // If later we add support for bluetooth connection
+     import { wallets as ledger } from '@cosmos-kit/ledger/web-ble';
+     ```
      ![WX20230627-004205](https://github.com/twhy/cosmology-updates/assets/7459812/0c70822d-b9df-4a7b-a324-81e54fffbbdd)
 
    
