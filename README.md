@@ -1,7 +1,10 @@
 # Cosmology Updates
 
-## 2023-06-19 ~ 2023-06-21 Week 7 (3 days, WIP)
-
+## 2023-06-19 ~ 2023-06-21 Week 7 
+1. [Closed] @cosmos-kit/react - Module not found: Can't resolve 'fs' https://github.com/cosmology-tech/cosmos-kit/issues/237
+   * 
+2. [Review Needed] Integrate Ledger Wallet https://github.com/cosmology-tech/cosmos-kit/issues/213
+   * PR 
 ## 2023-06-12 ~ 2023-06-16 Week 6
 1. [90% Done] Connect to Ledger using WebUSB/WebHID
    * [Works] Connect to Ledger ✅
