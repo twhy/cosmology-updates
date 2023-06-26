@@ -2,11 +2,15 @@
 
 ## 2023-06-19 ~ 2023-06-21 Week 7 
 1. [Closed] @cosmos-kit/react - Module not found: Can't resolve 'fs' https://github.com/cosmology-tech/cosmos-kit/issues/237
-   * 
+   * Can't reproduce with proejct template from `cca`
+   * Works after users changed their packages version(s)
 2. [Review Needed] Integrate Ledger Wallet https://github.com/cosmology-tech/cosmos-kit/issues/213
    * Pull Request https://github.com/cosmology-tech/cosmos-kit/pull/243
-   * Docs Added 
-     
+   * Docs Added. `@cosmos-kit/ledger` is currently in beta because
+     1. This connector is a new kind of connector, and using experimental Web USB/HID APIs.
+     2. Trying out the One Package Approach mentioned last week in this package.
+     ![WX20230627-004205](https://github.com/twhy/cosmology-updates/assets/7459812/0c70822d-b9df-4a7b-a324-81e54fffbbdd)
+
    
 ## 2023-06-12 ~ 2023-06-16 Week 6
 1. [90% Done] Connect to Ledger using WebUSB/WebHID
