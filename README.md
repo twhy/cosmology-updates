@@ -21,7 +21,7 @@
      ```
      ![WX20230627-004205](https://github.com/twhy/cosmology-updates/assets/7459812/0c70822d-b9df-4a7b-a324-81e54fffbbdd)
 
-   
+3. Loom https://www.loom.com/share/e16403193f114c9d82e611cb764aee8c   
 ## 2023-06-12 ~ 2023-06-16 Week 6
 1. [90% Done] Connect to Ledger using WebUSB/WebHID
    * [Works] Connect to Ledger ✅
