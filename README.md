@@ -1,7 +1,10 @@
 # Cosmology Updates
 
 ## 2023-07-03 ~ 2023-07-07 Week 9 (WIP)
-
+1. add a new cosmos-kit package that installs the react model with EVERY wallet included https://github.com/orgs/cosmology-tech/projects/6/views/17?pane=issue&itemId=31921808
+2. Test Feature/cosmostation mobile inject https://github.com/cosmology-tech/cosmos-kit/pull/252
+3. Add a example page `ledger.tsx` in `packages/examples`
+4. Merge and publish Leap WebView support feature when it's done
 
 ## 2023-06-23 ~ 2023-06-28 Week 8
 1. [Closed] TypeError TS2322 'XDEFIExtensionWallet’ is not assignable to type ‘MainWalletBase' https://github.com/cosmology-tech/cosmos-kit/issues/248
