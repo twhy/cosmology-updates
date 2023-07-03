@@ -1,5 +1,16 @@
 # Cosmology Updates
 
+## 2023-06-23 ~ 2023-06-28 Week 8
+1. [Closed] TypeError TS2322 'XDEFIExtensionWallet’ is not assignable to type ‘MainWalletBase' https://github.com/cosmology-tech/cosmos-kit/issues/248
+   ```
+   Type ‘XDEFIExtensionWallet’ is not assignable to type ‘MainWalletBase’. Property ‘_chainWalletMap’ is protected but type ‘MainWalletBase’ is not a class derived from ‘MainWalletBase’.
+   ```
+   * When trying to integrate XDEFI extension wallet, find this TypeError.
+   * [Root Cause] XDEFI depends on `@cosmos-kit@1.7.0` and template from `cca` depends on older version of `@cosmos-kit/@react` which depends on `@cosmos-kit@core@1.3.0`
+   * [Solution] Upgrade dependency versions
+     ![2023-07-03 23 27 04](https://github.com/twhy/cosmology-updates/assets/7459812/94e4820e-9247-4823-98a8-6072d0a7f9d5)
+   * [Improvement] Update `@cosmos-kit` related deps to lastest for templates in `cca`
+
 ## 2023-06-19 ~ 2023-06-21 Week 7 
 1. [Closed] @cosmos-kit/react - Module not found: Can't resolve 'fs' https://github.com/cosmology-tech/cosmos-kit/issues/237
    * Can't reproduce with proejct template from `cca`
