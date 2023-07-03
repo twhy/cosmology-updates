@@ -21,6 +21,8 @@
 3. [In Review] Enable extension wallets in Leap Mobile WebView https://github.com/cosmology-tech/cosmos-kit/issues/247
    * PR https://github.com/cosmology-tech/cosmos-kit/pull/255
    * Minor issue need to tested by Leap team within their App
+4. Loom video
+   https://www.loom.com/share/d6d794e44ab34f66a260bd6ce46a73ba
 
 ## 2023-06-19 ~ 2023-06-21 Week 7 
 1. [Closed] @cosmos-kit/react - Module not found: Can't resolve 'fs' https://github.com/cosmology-tech/cosmos-kit/issues/237
