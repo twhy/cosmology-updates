@@ -12,6 +12,8 @@
    * Merged PR https://github.com/cosmology-tech/cosmos-kit/pull/258
 4. [Merged] Merge and publish Leap WebView support feature when it's done
    * PR https://github.com/cosmology-tech/cosmos-kit/pull/255
+5. [Merged] Upgrade dependecies for templates in `create-cosmos-app`
+   * PR https://github.com/cosmology-tech/create-cosmos-app/pull/118
 
 ## 2023-06-23 ~ 2023-06-28 Week 8
 1. [Closed] TypeError TS2322 'XDEFIExtensionWallet’ is not assignable to type ‘MainWalletBase' https://github.com/cosmology-tech/cosmos-kit/issues/248
