@@ -17,8 +17,9 @@
    wallets.kerlr.mobile    // KeplrMobileWallet
    wallets.keplr.extension // KeplrExtensionWallet
    ```
-   * [Question] What else should I add to this package ?   
+   * [Question 1] What else should I add to this package ?   
       A preconfigured `ChainProvider` doesn't make sense because every Dapp has it own `walletConnectOptions`
+   * [Question 2] What do you think about the package foler location `cosmos-kit/packages/main` ?
 2. [Beta] Add a example page `ledger.tsx` in `packages/examples`
    * https://github.com/cosmology-tech/cosmos-kit/commit/51c794eb0ff305ce87bc4342d52125f67700ca7e
    * Currenty in `beta` branch
