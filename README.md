@@ -5,7 +5,17 @@
 ## 2023-07-03 ~ 2023-07-07 Week 9
 1. [WIP] add a new cosmos-kit package that installs the react model with EVERY wallet included https://github.com/orgs/cosmology-tech/projects/6/views/17?pane=issue&itemId=31921808
    * [Folder Name] `cosmos-kit/packages/main`
-   * `wallets` Array with methods & properties
+   * `wallets` Array with methods & properties & testings
+   ```javascript
+   wallets.mobile      // An array of mobile wallets
+   wallets.extension   // An array of extension wallets
+   wallets.for('keplr', 'cosmostation')            // [KeplrExtensionWallet, KeplrMobileWallet, CosmostationExtensionWallet, CosmostationMobileWallet]
+   wallets.for('keplr', 'cosmostation').mobile     // [KeplrMobileWallet, CosmostationMobileWallet]
+   wallets.for('keplr', 'cosmostation').extension  // [KeplrExtensionWallet, CosmostationExtensionWallet]
+   wallets.keplr           // [KeplrExtensionWallet, KeplrMobileWallet]
+   wallets.kerlr.mobile    // KeplrMobileWallet
+   wallets.keplr.extension // KeplrExtensionWallet
+   ```
 2. Add a example page `ledger.tsx` in `packages/examples`
    * https://github.com/cosmology-tech/cosmos-kit/commit/51c794eb0ff305ce87bc4342d52125f67700ca7e
 3. [Merged] Cosmostation inject script for mobile
