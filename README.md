@@ -17,8 +17,9 @@
    wallets.kerlr.mobile    // KeplrMobileWallet
    wallets.keplr.extension // KeplrExtensionWallet
    ```
-2. Add a example page `ledger.tsx` in `packages/examples`
+2. [Beta] Add a example page `ledger.tsx` in `packages/examples`
    * https://github.com/cosmology-tech/cosmos-kit/commit/51c794eb0ff305ce87bc4342d52125f67700ca7e
+   * Currenty in `beta` branch
 3. [Merged] Cosmostation inject script for mobile
    * Original PR https://github.com/cosmology-tech/cosmos-kit/pull/252
    * Merged PR https://github.com/cosmology-tech/cosmos-kit/pull/258
