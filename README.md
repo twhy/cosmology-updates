@@ -8,6 +8,8 @@
    * [Code] https://github.com/cosmology-tech/cosmos-kit/compare/feat/cosmos-kit-all-wallets?expand=1
    * `wallets` Array with methods & properties & testings
    ```javascript
+   import { wallets } from 'cosmos-kit'
+   
    wallets.mobile      // An array of mobile wallets
    wallets.extension   // An array of extension wallets
    wallets.for('keplr', 'cosmostation')            // [KeplrExtensionWallet, KeplrMobileWallet, CosmostationExtensionWallet, CosmostationMobileWallet]
