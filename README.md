@@ -4,7 +4,8 @@
 
 ## 2023-07-03 ~ 2023-07-07 Week 9
 1. [WIP] add a new cosmos-kit package that installs the react model with EVERY wallet included https://github.com/orgs/cosmology-tech/projects/6/views/17?pane=issue&itemId=31921808
-   * [Folder Name] `cosmos-kit/packages/main`
+   * [Folder] I put this package at `cosmos-kit/packages/main`
+   * [Code] https://github.com/cosmology-tech/cosmos-kit/compare/feat/cosmos-kit-all-wallets?expand=1
    * `wallets` Array with methods & properties & testings
    ```javascript
    wallets.mobile      // An array of mobile wallets
@@ -20,6 +21,7 @@
    * [Question 1] What else should I add to this package ?   
       A preconfigured `ChainProvider` doesn't make sense because every Dapp has it own `walletConnectOptions`
    * [Question 2] What do you think about the package foler location `cosmos-kit/packages/main` ?
+     
 2. [Beta] Add a example page `ledger.tsx` in `packages/examples`
    * https://github.com/cosmology-tech/cosmos-kit/commit/51c794eb0ff305ce87bc4342d52125f67700ca7e
    * Currenty in `beta` branch
