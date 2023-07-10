@@ -12,6 +12,7 @@
    wallets.for('keplr', 'cosmostation')            // [KeplrExtensionWallet, KeplrMobileWallet, CosmostationExtensionWallet, CosmostationMobileWallet]
    wallets.for('keplr', 'cosmostation').mobile     // [KeplrMobileWallet, CosmostationMobileWallet]
    wallets.for('keplr', 'cosmostation').extension  // [KeplrExtensionWallet, CosmostationExtensionWallet]
+   wallets.not('coin98', 'compass')                // wallets except Coin98 and Compass
    wallets.keplr           // [KeplrExtensionWallet, KeplrMobileWallet]
    wallets.kerlr.mobile    // KeplrMobileWallet
    wallets.keplr.extension // KeplrExtensionWallet
