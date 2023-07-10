@@ -7,7 +7,7 @@
    * [WIP]
 2. Add a example page `ledger.tsx` in `packages/examples`
    * https://github.com/cosmology-tech/cosmos-kit/commit/51c794eb0ff305ce87bc4342d52125f67700ca7e
-3. Cosmostation inject script for mobile
+3. [Merged] Cosmostation inject script for mobile
    * Original PR https://github.com/cosmology-tech/cosmos-kit/pull/252
    * Merged PR https://github.com/cosmology-tech/cosmos-kit/pull/258
 4. [Merged] Merge and publish Leap WebView support feature when it's done
