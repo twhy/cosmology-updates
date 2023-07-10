@@ -27,6 +27,8 @@
    * PR https://github.com/cosmology-tech/cosmos-kit/pull/255
 5. [Merged] Upgrade dependecies for templates in `create-cosmos-app`
    * PR https://github.com/cosmology-tech/create-cosmos-app/pull/118
+6. Loom Videos
+   * Part 1 https://www.loom.com/share/862a0e1fbb1b4cdd9e42f0f1d34ac0f3
 
 ## 2023-06-23 ~ 2023-06-28 Week 8
 1. [Closed] TypeError TS2322 'XDEFIExtensionWallet’ is not assignable to type ‘MainWalletBase' https://github.com/cosmology-tech/cosmos-kit/issues/248
