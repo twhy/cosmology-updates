@@ -17,7 +17,7 @@
    wallets.for('keplr', 'cosmostation').extension  // [KeplrExtensionWallet, CosmostationExtensionWallet]
    wallets.not('coin98', 'compass')                // wallets except Coin98 and Compass
    wallets.keplr           // [KeplrExtensionWallet, KeplrMobileWallet]
-   wallets.kerlr.mobile    // KeplrMobileWallet
+   wallets.keplr.mobile    // KeplrMobileWallet
    wallets.keplr.extension // KeplrExtensionWallet
    ```
    * [Question 1] What else should I add to this package ?   
