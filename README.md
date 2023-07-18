@@ -4,7 +4,8 @@
 1. Add `useChains` hook to CosmosKit https://github.com/cosmology-tech/cosmos-kit/issues/263
 2. Continue work on the new `cosmos-kit` package
 
-## 2023-07-10 ~ 2023-07-14 Week 10 (Sick for 3 days)
+## 2023-07-10 ~ 2023-07-14 Week 10
+0. Sick for 3 days
 1. Improve Ledger example page
 2. Add docs on how to connect multiple chains
    ![WX20230718-120757@2x](https://github.com/twhy/cosmology-updates/assets/7459812/e5e7f568-9758-4b34-964b-8d8ad7ed7d40)
