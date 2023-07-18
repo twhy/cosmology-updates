@@ -1,6 +1,8 @@
 # Cosmology Updates
 
 ## 2023-07-17 ~ 2023-07-21 Week 11 (WIP)
+1. Add `useChains` hook to CosmosKit https://github.com/cosmology-tech/cosmos-kit/issues/263
+2. Continue work on the new `cosmos-kit` package
 
 ## 2023-07-10 ~ 2023-07-14 Week 10 (Sick for 3 days)
 1. Add docs on how to connect multiple chains
