@@ -8,7 +8,8 @@
 1. Improve Ledger example page
 2. Add docs on how to connect multiple chains
    ![WX20230718-120757@2x](https://github.com/twhy/cosmology-updates/assets/7459812/e5e7f568-9758-4b34-964b-8d8ad7ed7d40)
-
+3. Loom
+   https://www.loom.com/share/bd57ef501e1c4d9dacd24da50bb32070
 
 ## 2023-07-03 ~ 2023-07-07 Week 9
 1. [WIP] add a new cosmos-kit package that installs the react model with EVERY wallet included https://github.com/orgs/cosmology-tech/projects/6/views/17?pane=issue&itemId=31921808
