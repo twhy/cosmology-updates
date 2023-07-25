@@ -17,7 +17,7 @@
 ![WechatIMG47](https://github.com/twhy/cosmology-updates/assets/7459812/67b45f5e-e82b-4e80-bfbe-a1028e27e45a)
 ![WechatIMG48](https://github.com/twhy/cosmology-updates/assets/7459812/e64161c4-1856-4121-82cb-b3f00f8ac82f)
 3. Loom
-
+https://www.loom.com/share/35e6a7d0e67c453da083c4b6397207fd
 
 ## 2023-07-10 ~ 2023-07-14 Week 10
 0. Sick for 3 days
