@@ -1,7 +1,8 @@
 # Cosmology Updates
 
-## 2023-07-24 ~ 2023-07-28 Week 12
-1. Refactor the asset-list example in cca with Interchain UI
+## 2023-07-24 ~ 2023-07-28 Week 12 (WIP)
+1. Refactor the asset-list example in cca with Interchain UI https://github.com/cosmology-tech/projects-issues/issues/408
+2. Refactor the provide-liquidity example in cca with Interchain UI https://github.com/cosmology-tech/projects-issues/issues/409
 
 ## 2023-07-17 ~ 2023-07-21 Week 11
 1. [Released] The new cosmos-kit (v0.12.3) has released.
