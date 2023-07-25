@@ -1,8 +1,21 @@
 # Cosmology Updates
 
-## 2023-07-17 ~ 2023-07-21 Week 11 (WIP)
-1. Add `useChains` hook to CosmosKit https://github.com/cosmology-tech/cosmos-kit/issues/263
-2. Continue work on the new `cosmos-kit` package
+## 2023-07-24 ~ 2023-07-28 Week 12
+1. Refactor the asset-list example in cca with Interchain UI
+
+## 2023-07-17 ~ 2023-07-21 Week 11
+1. [Released] The new cosmos-kit (v0.12.3) has released.
+   * Changed version to v2.0.3 to match up with other packages.
+   * Will release a minor version today / tomorrow
+   * [TODO] Replace the wallet deps with `cosmos-kit` in `docs` and `example`
+2. Attend a Cosmos meetup in Shenzhen
+   * There were about `100` people at the meetup.
+   * I couldn't believe there are so many people interested in/working on Cosmos related projects in China
+   * Z gave a talk on our company and tools
+![WechatIMG49](https://github.com/twhy/cosmology-updates/assets/7459812/777ab547-0f64-4a36-abe6-88a35032388c)
+![WechatIMG47](https://github.com/twhy/cosmology-updates/assets/7459812/67b45f5e-e82b-4e80-bfbe-a1028e27e45a)
+![WechatIMG48](https://github.com/twhy/cosmology-updates/assets/7459812/e64161c4-1856-4121-82cb-b3f00f8ac82f)
+
 
 ## 2023-07-10 ~ 2023-07-14 Week 10
 0. Sick for 3 days
