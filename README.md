@@ -11,6 +11,8 @@
 2. Add `useChains` hook
    * Issue https://github.com/cosmology-tech/cosmos-kit/issues/263
    * <img width="360" alt="image" src="https://github.com/twhy/cosmology-updates/assets/7459812/e2cb8a96-6f3e-42cb-9cd7-32300c68db4c">
+3. Loom
+   https://www.loom.com/share/ebc0bb8523734658818c16afa89fea46
 
 ## 2023-07-17 ~ 2023-07-21 Week 11
 1. [Released] The new cosmos-kit (v0.12.3) has released.
