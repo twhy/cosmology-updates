@@ -8,7 +8,7 @@
 ## 2023-07-24 ~ 2023-07-28 Week 12
 1. Add docs for new `cosmos-kit` package  
    https://github.com/cosmology-tech/cosmos-kit/blob/main/packages/docs/pages/integrating-wallets/adding-all-wallets.mdx
-2. Add `useChains` hook (WIP, major part has worked)
+2. Add `useChains` hook (WIP, extension part has worked)
    * Issue https://github.com/cosmology-tech/cosmos-kit/issues/263
    * Code https://github.com/cosmology-tech/cosmos-kit/compare/use-chains?expand=1
    * <img width="360" alt="image" src="https://github.com/twhy/cosmology-updates/assets/7459812/e2cb8a96-6f3e-42cb-9cd7-32300c68db4c">
