@@ -1,8 +1,16 @@
 # Cosmology Updates
 
-## 2023-07-24 ~ 2023-07-28 Week 12 (WIP)
-1. Refactor the asset-list example in cca with Interchain UI https://github.com/cosmology-tech/projects-issues/issues/408
-2. Refactor the provide-liquidity example in cca with Interchain UI https://github.com/cosmology-tech/projects-issues/issues/409
+## 2023-07-31 ~ 2023-08-04 Week 13 (WIP)
+1. Continue work on `useChains`
+2. Refactor the asset-list example in cca with Interchain UI https://github.com/cosmology-tech/projects-issues/issues/408
+3. Refactor the provide-liquidity example in cca with Interchain UI https://github.com/cosmology-tech/projects-issues/issues/409
+
+## 2023-07-24 ~ 2023-07-28 Week 12
+1. Add docs for new `cosmos-kit` package  
+   https://github.com/cosmology-tech/cosmos-kit/blob/main/packages/docs/pages/integrating-wallets/adding-all-wallets.mdx
+2. Add `useChains` hook
+   * Issue https://github.com/cosmology-tech/cosmos-kit/issues/263
+   * <img width="360" alt="image" src="https://github.com/twhy/cosmology-updates/assets/7459812/e2cb8a96-6f3e-42cb-9cd7-32300c68db4c">
 
 ## 2023-07-17 ~ 2023-07-21 Week 11
 1. [Released] The new cosmos-kit (v0.12.3) has released.
