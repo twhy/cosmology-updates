@@ -1,6 +1,6 @@
 # Cosmology Updates
 
-## 2023-08-07 ~ 2023-08-11 Week 13 (WIP)
+## 2023-08-07 ~ 2023-08-11 Week 14 (WIP)
 1. (WIP) `useChains` https://github.com/cosmology-tech/cosmos-kit/issues/263
 2. (WIP) Refactor the asset-list example in cca with Interchain UI https://github.com/cosmology-tech/projects-issues/issues/408
 
