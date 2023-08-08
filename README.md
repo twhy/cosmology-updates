@@ -10,6 +10,8 @@
    * [TODO] Fix duplicate popups on mobile apps when reconnect
    * <img width="360" alt="image" src="https://github.com/twhy/cosmology-updates/assets/7459812/b93f1f24-206d-4d5b-bf73-787cef267a0a">
 2. (WIP) Refactor the asset-list example in cca with Interchain UI https://github.com/cosmology-tech/projects-issues/issues/408
+3. Loom
+   * https://www.loom.com/share/4cd4e15b818c4ca988ea4ca4218976b0
 
 ## 2023-07-24 ~ 2023-07-28 Week 12
 1. Add docs for new `cosmos-kit` package  
