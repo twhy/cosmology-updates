@@ -10,7 +10,7 @@
    * Work with extensions and mobile apps, no duplicate popups
 2. Loom
    * https://www.loom.com/share/93da0afe688141148fd95b4cfbbf2081  
-
+   * `useChains` Demo https://www.loom.com/share/8d44cbd1c8a8472db63a90950dcbe339
 ## 2023-07-31 ~ 2023-08-04 Week 13
 1. (WIP) `useChains` WalletConnect part https://github.com/cosmology-tech/cosmos-kit/issues/263
    * Works with WalletConnect
