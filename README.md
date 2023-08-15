@@ -7,6 +7,7 @@
 1. `useChains` https://github.com/cosmology-tech/cosmos-kit/issues/263
    * [Review Needed] **PR** https://github.com/cosmology-tech/cosmos-kit/pull/293
    * Docs Added
+   * Work with extensions and mobile apps, no duplicate popups
 
 ## 2023-07-31 ~ 2023-08-04 Week 13
 1. (WIP) `useChains` WalletConnect part https://github.com/cosmology-tech/cosmos-kit/issues/263
