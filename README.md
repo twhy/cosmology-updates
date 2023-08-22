@@ -10,7 +10,7 @@
    * Refactor `Footer.tsx` with TailwindCSS (130 lines => 50 lines)
 2. Interchain UI Improvements (TBD)
    * Add `toggleTheme()` method
-   * Complete `Button` component
+   * Complete `Button` component (naming and features)
 
 ## 2023-08-07 ~ 2023-08-11 Week 14
 1. `useChains` https://github.com/cosmology-tech/cosmos-kit/issues/263
