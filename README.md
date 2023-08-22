@@ -11,6 +11,8 @@
 2. Interchain UI Improvements (TBD)
    * Add `toggleTheme()` method
    * Complete `Button` component (naming and features)
+3. Loom
+   https://www.loom.com/share/62ef5619fccf48d6aa2b641e2f8782ff
 
 ## 2023-08-07 ~ 2023-08-11 Week 14
 1. `useChains` https://github.com/cosmology-tech/cosmos-kit/issues/263
