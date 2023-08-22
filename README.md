@@ -1,7 +1,16 @@
 # Cosmology Updates
 
-## 2023-08-14 - 2023-08-18 Week 15 (WIP)
+## 2023-08-21 ~ 2023-08-25 Week 16 (WIP)
 1. Refactor the asset-list example in cca with Interchain UI https://github.com/cosmology-tech/projects-issues/issues/408
+
+## 2023-08-14 ~ 2023-08-18 Week 15
+1. Refactor the asset-list example in cca with Interchain UI https://github.com/cosmology-tech/projects-issues/issues/408
+   * Replace Chakra UI components with Interchain UI
+   * Refactor `Header.tsx` with TailwindCSS (60 lines => 34 lines)
+   * Refactor `Footer.tsx` with TailwindCSS (130 lines => 50 lines)
+2. Interchain UI Improvements (TBD)
+   * Add `toggleTheme()` method
+   * Complete `Button` component
 
 ## 2023-08-07 ~ 2023-08-11 Week 14
 1. `useChains` https://github.com/cosmology-tech/cosmos-kit/issues/263
