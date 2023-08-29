@@ -1,7 +1,13 @@
 # Cosmology Updates
 
-## 2023-08-21 ~ 2023-08-25 Week 16 (WIP)
+## 2023-08-28 ~ 2023-09-01 Week 17 (WIP)
+1. [useChains] Handle case `addChain` 
+
+## 2023-08-21 ~ 2023-08-25 Week 16
 1. Refactor the asset-list example in cca with Interchain UI https://github.com/cosmology-tech/projects-issues/issues/408
+   * Lacking components, features, and docs are blocking this work
+   * Meet with Phat and Marshall with blocking items
+   * [Solution] Phat make an `asset-list-app` that replace all chakra-ui with interchain-ui in `asset-list` example so that I can use this as an refenence to update the rest examples.
 
 ## 2023-08-14 ~ 2023-08-18 Week 15
 1. Refactor the asset-list example in cca with Interchain UI https://github.com/cosmology-tech/projects-issues/issues/408
