@@ -1,11 +1,14 @@
 # Cosmology Updates
 
 ## 2023-09-04 ~ 2023-09-08 Week 18 (WIP)
+1. metamask snap support https://github.com/cosmology-tech/cosmos-kit/issues/301
 
 ## 2023-08-28 ~ 2023-09-01 Week 17
 1. [Fixed & Published] useChains bug when one chain has connected https://github.com/cosmology-tech/cosmos-kit/issues/308
    * [PR Merged] https://github.com/cosmology-tech/cosmos-kit/pull/309/files
    * useChains nav in docs is missing
+2. [WIP] Enable broadcast for Ledger
+   * add `getOfflineSigner` in Ledger client class
 
 ## 2023-08-21 ~ 2023-08-25 Week 16
 1. Refactor the asset-list example in cca with Interchain UI https://github.com/cosmology-tech/projects-issues/issues/408
