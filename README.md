@@ -9,7 +9,9 @@
    * [Docs] useChains nav in docs is missing
 2. [WIP] Enable broadcast for Ledger
    * add `getOfflineSigner` in Ledger client class
-
+3. Loom
+   * https://www.loom.com/share/d29ee66b96484bdb8ea5f8aa8a90b0ec
+   
 ## 2023-08-21 ~ 2023-08-25 Week 16
 1. Refactor the asset-list example in cca with Interchain UI https://github.com/cosmology-tech/projects-issues/issues/408
    * Lacking components, features, and docs are blocking this work
