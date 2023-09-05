@@ -6,7 +6,7 @@
 ## 2023-08-28 ~ 2023-09-01 Week 17
 1. [Fixed & Published] useChains bug when one chain has connected https://github.com/cosmology-tech/cosmos-kit/issues/308
    * [PR Merged] https://github.com/cosmology-tech/cosmos-kit/pull/309/files
-   * useChains nav in docs is missing
+   * [Docs] useChains nav in docs is missing
 2. [WIP] Enable broadcast for Ledger
    * add `getOfflineSigner` in Ledger client class
 
