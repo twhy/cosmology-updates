@@ -1,7 +1,18 @@
 # Cosmology Updates
 
-## 2023-09-04 ~ 2023-09-08 Week 18 (WIP)
+## 2023-09-11 ~ 2023-09-15 Week 19
+1. Continue port `asset-list` to interchain-ui
+
+## 2023-09-04 ~ 2023-09-08 Week 18
 1. metamask snap support https://github.com/cosmology-tech/cosmos-kit/issues/301
+   * Funtionality has been done
+   * Field name to indicate an MetaMask Snap
+     - Currently `metamask_snap: true` is used https://github.com/cosmology-tech/cosmos-kit/issues/302
+     - For scalibility, consider using `extends` field whose value can be 'MetaMask' or some other wallet names in the future
+     - `MetaMask Snaps` `Keplr Addons` `Leap Plugins`
+<img width="305" alt="image" src="https://github.com/twhy/cosmology-updates/assets/7459812/6ef85c68-0282-466e-acfe-d129ca649531">
+<img width="1101" alt="image" src="https://github.com/twhy/cosmology-updates/assets/7459812/226cee97-4c82-46e6-b42c-f7b61806bd57">
+
 
 ## 2023-08-28 ~ 2023-09-01 Week 17
 1. [Fixed & Published] useChains bug when one chain has connected https://github.com/cosmology-tech/cosmos-kit/issues/308
