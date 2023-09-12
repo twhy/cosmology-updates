@@ -12,7 +12,8 @@
      - `MetaMask Snaps` `Keplr Addons` `Leap Plugins`
 <img width="305" alt="image" src="https://github.com/twhy/cosmology-updates/assets/7459812/6ef85c68-0282-466e-acfe-d129ca649531">
 <img width="1101" alt="image" src="https://github.com/twhy/cosmology-updates/assets/7459812/226cee97-4c82-46e6-b42c-f7b61806bd57">
-
+2. Loom
+https://www.loom.com/share/b09c2cf7621249d5af9791fab18fa060
 
 ## 2023-08-28 ~ 2023-09-01 Week 17
 1. [Fixed & Published] useChains bug when one chain has connected https://github.com/cosmology-tech/cosmos-kit/issues/308
