@@ -9,6 +9,8 @@
 ## 2023-09-11 ~ 2023-09-15 Week 19
 1. [Merged & Done] Flip logos for MetaMask Snaps
    <img width="313" alt="image" src="https://github.com/cosmology-tech/cosmos-kit/assets/7459812/932b8d6b-4423-4612-ac1a-ecb5ac46ca26">
+   * PR1 https://github.com/cosmology-tech/cosmos-kit/pull/322
+   * PR2 https://github.com/cosmology-tech/interchain-ui/pull/102
 2. [Merged & Done] Add docs for MetaMask Snaps
    * PR https://github.com/cosmology-tech/cosmos-kit/pull/326
 3. [WIP] Port `swap-token` example in cca to `interchain-ui`
