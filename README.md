@@ -14,6 +14,8 @@
 2. [Merged & Done] Add docs for MetaMask Snaps
    * PR https://github.com/cosmology-tech/cosmos-kit/pull/326
 3. [WIP] Port `swap-token` example in cca to `interchain-ui`
+4. Loom
+   * https://www.loom.com/share/bef87948ddc44cf681a358bcb37ce81a
 
 ## 2023-09-04 ~ 2023-09-08 Week 18
 1. metamask snap support https://github.com/cosmology-tech/cosmos-kit/issues/301
