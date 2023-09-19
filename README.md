@@ -3,8 +3,8 @@
 ## 2023-09-18 ~ 2023-09-22 Week 20 (WIP)
 1. [WIP] Port swap-token example in cca to interchain-ui
    * Port it to a new folder `swap-token-new`
-   * Rebuild example with Next 13 App router
    * Make a video tutorial on how to build it
+   * Rebuild example with Next 13 App router and put it `swap-token-app`
 
 ## 2023-09-11 ~ 2023-09-15 Week 19
 1. [Merged & Done] Flip logos for MetaMask Snaps
