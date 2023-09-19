@@ -1,7 +1,17 @@
 # Cosmology Updates
 
+## 2023-09-18 ~ 2023-09-22 Week 20 (WIP)
+1. [WIP] Port swap-token example in cca to interchain-ui
+   * Port it to a new folder `swap-token-new`
+   * Rebuild example with Next 13 App router
+   * Make a video tutorial on how to build it
+
 ## 2023-09-11 ~ 2023-09-15 Week 19
-1. Continue port `asset-list` to interchain-ui
+1. [Merged & Done] Flip logos for MetaMask Snaps
+   <img width="313" alt="image" src="https://github.com/cosmology-tech/cosmos-kit/assets/7459812/932b8d6b-4423-4612-ac1a-ecb5ac46ca26">
+2. [Merged & Done] Add docs for MetaMask Snaps
+   * PR https://github.com/cosmology-tech/cosmos-kit/pull/326
+3. [WIP] Port `swap-token` example in cca to `interchain-ui`
 
 ## 2023-09-04 ~ 2023-09-08 Week 18
 1. metamask snap support https://github.com/cosmology-tech/cosmos-kit/issues/301
