@@ -20,6 +20,8 @@
    | All            | 737 |           All      | 223 |
 
    * [WIP] Replace the swap component with SwapToken component is interchain-ui
+   * Loom
+   https://www.loom.com/share/2f8b8111f54743959f1c57d24ab6092a  
    
 ## 2023-09-11 ~ 2023-09-15 Week 19
 1. [Merged & Done] Flip logos for MetaMask Snaps
