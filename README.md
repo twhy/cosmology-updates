@@ -7,7 +7,7 @@
 
 ## 2023-09-18 ~ 2023-09-22 Week 20
 1. [WIP 60%] Port swap-token example in cca to interchain-ui
-   * [Done] Rebuild the wallet compoment(s) with interchain-ui (70% less code)
+   * [Done] Rebuild the wallet compoment(s) with interchain-ui (`70%` less code)
      
    | Component Name | LOC | New Component Name | LOC |
    |----------------|-----|--------------------|-----|
