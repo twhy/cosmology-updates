@@ -8,7 +8,8 @@
 ## 2023-09-18 ~ 2023-09-22 Week 20
 1. [WIP 60%] Port swap-token example in cca to interchain-ui
    * [Done] Rebuild the wallet compoment(s) with interchain-ui (`70%` less code)
-     
+   * [Code] https://github.com/cosmology-tech/create-cosmos-app/commit/edb00943fb17b7de8fb2e5d804f0937af980da65#diff-e4688342543e6e8a849f65ac5f3e7768cb7aeb86ce7ae8e4c9aec40e8862e8dd
+  
    | Component Name | LOC | New Component Name | LOC |
    |----------------|-----|--------------------|-----|
    | AddressCard    | 206 | ClipboardCopyText  |  1  |
