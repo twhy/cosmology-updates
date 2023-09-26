@@ -20,7 +20,7 @@
    | WarnBlock      |  90 |        Warning     |  33 |
    | All            | 737 |           All      | 223 |
 
-   * [WIP] Replace the swap component with SwapToken component is interchain-ui
+   * [WIP] Replace the swap component with SwapToken component in interchain-ui
    * Loom
    https://www.loom.com/share/2f8b8111f54743959f1c57d24ab6092a  
    
