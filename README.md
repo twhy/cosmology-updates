@@ -1,6 +1,11 @@
 # Cosmology Updates
 
-## 2023-09-18 ~ 2023-09-22 Week 20 (WIP)
+## 2023-09-25 ~ 2023-09-28 Week 21 (WIP)
+1. [WIP 60%] Port swap-token example in cca to interchain-ui
+   * Should be done this week
+   * Make a video tuturial for this example
+
+## 2023-09-18 ~ 2023-09-22 Week 20
 1. [WIP 60%] Port swap-token example in cca to interchain-ui
    * [Done] Rebuild the wallet compoment(s) with interchain-ui (70% less code)
      
