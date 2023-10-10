@@ -1,9 +1,17 @@
 # Cosmology Updates
 
-## 2023-09-25 ~ 2023-09-28 Week 21 (WIP)
-1. [WIP 60%] Port swap-token example in cca to interchain-ui
-   * Should be done this week
-   * Make a video tuturial for this example
+## 2023-10-09 ~ 2023-10-13 Week 23 (WIP)
+
+
+## 2023-10-02 ~ 2022-10-06 Week 22 (Holiday)
+
+## 2023-09-25 ~ 2023-09-28 Week 21
+1. [Solved] Wallet gets disconnected when switching chains https://github.com/cosmology-tech/cosmos-kit/issues/332
+   * From @vinodhum from Discord
+   * Wrong use of hook instead of bug after reading the code sample they provided.
+   * [Suggestion] We should always ask them to create an issue and provide reproduce steps on GitHub.
+2. [WIP 70%] Port swap-token example in cca to interchain-ui
+   * More work to be done on the SwapToken component in interchain-ui to make is usable in examples
 
 ## 2023-09-18 ~ 2023-09-22 Week 20
 1. [WIP 60%] Port swap-token example in cca to interchain-ui
