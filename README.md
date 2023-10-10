@@ -13,6 +13,8 @@
    * [Suggestion] We should always ask them to create an issue and provide reproduce steps on GitHub.
 2. [WIP 70%] Port swap-token example in cca to interchain-ui
    * More work to be done on the SwapToken component in interchain-ui to make is usable in examples
+3. Loom
+   * https://www.loom.com/share/5ef9c5083a454a018a1ebb2db1db91f3
 
 ## 2023-09-18 ~ 2023-09-22 Week 20
 1. [WIP 60%] Port swap-token example in cca to interchain-ui
