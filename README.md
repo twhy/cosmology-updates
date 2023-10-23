@@ -1,8 +1,22 @@
 # Cosmology Updates
 
-## 2023-10-09 ~ 2023-10-13 Week 23 (WIP)
-1. Account Abstraction Support https://github.com/burnt-labs/cosmos-kit/pull/2/files#diff-211385fbb4310c997955e08d2e81a7ff78c8afc7d8bb1400f44c4a03c60795bdR135
-2. Get the swap-token example done this week
+## 2023-10-09 ~ 2023-10-20 Week 23~24
+1. [80% Done] Refactor/Rebuild Swap Component with Interchain UI
+   * Swap.tsx
+   * SwapButton.tsx
+   * SwapFromTo.tsx
+   * SwapInfo.tsx
+   * SwapPrice.tsx
+   * SwapResult.tsx
+   * SwapRoute.tsx
+   * SwapSlippage.tsx
+   * SwapTokenInput.tsx
+2. Refactor hooks in Swap Tokens example
+   * useSwap
+   * usePools
+   * usePrices
+   * useBalances
+3. [Not Started] Account Abstraction Support https://github.com/burnt-labs/cosmos-kit/pull/2/files#diff-211385fbb4310c997955e08d2e81a7ff78c8afc7d8bb1400f44c4a03c60795bdR135     
 
 ## 2023-10-02 ~ 2022-10-06 Week 22 (Holiday)
 
