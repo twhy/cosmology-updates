@@ -2,7 +2,7 @@
 
 ## 2023-10-23 ~ 2023-10-27 Week 25
 1. [Done Finally] Rebuild swap-tokens example with Interchain UI
-   * [Review Needed] Luca please review the code
+   * Review needed from Luca
    * [PR] https://github.com/cosmology-tech/create-cosmos-app/pull/139
    * The original folder was renamed to `swap-tokens-chakra` (Should we keep this folder?)
      
