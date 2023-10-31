@@ -5,6 +5,7 @@
    * Review needed from Luca
    * [PR] https://github.com/cosmology-tech/create-cosmos-app/pull/139
    * The original folder was renamed to `swap-tokens-chakra` (Should we keep this folder?)
+2. [10%] Start working on the NFT example with Interchain UI
      
 ## 2023-10-09 ~ 2023-10-20 Week 23~24
 1. [80% Done] Refactor/Rebuild Swap Component with Interchain UI
