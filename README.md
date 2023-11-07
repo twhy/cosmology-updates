@@ -1,5 +1,11 @@
 # Cosmology Updates
 
+## 2023-10-30 ~ 2023-11-03 Week 26
+1. [30%] Rebuild NFT example with Interchain UI
+   * Upgrade @cosmos-kit/* deps in nft and nft-new example
+   * Update common and wallet components
+   * Other small refactorings
+
 ## 2023-10-23 ~ 2023-10-27 Week 25
 1. [Done Finally] Rebuild swap-tokens example with Interchain UI
    * Review needed from Luca
